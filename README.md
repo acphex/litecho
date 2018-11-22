@@ -1,3 +1,4 @@
 # litecho
 A simple wordpress theme
-## TODO
+## 预览
+![screenshot](https://raw.githubusercontent.com/acphex/litecho/master/screenshot.png)
