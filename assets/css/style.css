@@ -400,7 +400,19 @@ pre{
 .clipboard-wrap:hover button.btn{
 	display:block;
 }
-
+.nav-links{
+	font-size:14px;
+}
+.page-numbers{
+	padding-left:5px;
+	padding-right:5px;
+	border:1px solid #46b8da;
+	padding-top:3px;
+	padding-bottom:3px;
+}
+.page-numbers.current{
+	border-color:#ddd;	
+}
 
 
 
